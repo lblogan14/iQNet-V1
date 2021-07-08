@@ -5,3 +5,6 @@ Please cite the paper https://arxiv.org/abs/2006.04814 if you use any data, mode
 We're currently working on the 2nd version of iQNet implemented with new upgrades so this repository is named as the vallina 1st version of iQNet. To better adapt to other test spectra, users should retrain the model with their own dataset to reduce prediction error in the predicted intrinsic continua.
 
 We provided two iQNet models, one trained with HST Cosmic Origin Spectrograph QSO spectra and the other one trained with both HST and SDSS QSO spectra. The discrepany between those predicted continua are merely the difference in the training spectra.
+
+The figure below shows some of the test results from iQNet-V1.
+![](https://github.com/lblogan14/iQNet-V1/blob/main/iqnet-v1_samples.gif)
